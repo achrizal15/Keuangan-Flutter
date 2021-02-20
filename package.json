@@ -1,0 +1,27 @@
+{
+  "name": "keuangan",
+  "version": "1.0.0",
+  "description": "Aplikasi Keuangan Dengan Flutter",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achrizal15/Aplikasi-Keuangan-Flutter.git"
+  },
+  "keywords": [
+    "Flutter",
+    "Keuangan",
+    "aplikasi"
+  ],
+  "author": "ACHRIZAL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achrizal15/Aplikasi-Keuangan-Flutter/issues"
+  },
+  "homepage": "https://github.com/achrizal15/Aplikasi-Keuangan-Flutter#readme"
+}

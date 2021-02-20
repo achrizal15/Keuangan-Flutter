@@ -1,0 +1,14 @@
+Creation date: Oct 20, 2020
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: C=US, O=Android, CN=Android Debug
+Issuer: C=US, O=Android, CN=Android Debug
+Serial number: 1
+Valid from: Tue Oct 20 07:33:19 WIB 2020 until: Thu Oct 13 07:33:19 WIB 2050
+Certificate fingerprints:
+         SHA1: 70:23:0D:62:16:01:56:64:92:6D:55:18:4A:C5:2A:2F:CE:95:99:E5
+         SHA256: F0:44:7B:EE:B7:BC:2B:E0:B7:89:17:B0:FB:55:9F:AD:C3:BB:11:4F:71:4C:F5:1F:13:FA:8D:E9:68:92:ED:66
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 1

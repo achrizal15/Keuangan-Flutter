@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "135242891370",
+    "project_id": "keuangan-ac82d",
+    "storage_bucket": "keuangan-ac82d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135242891370:android:0355bf43126518d212ca13",
+        "android_client_info": {
+          "package_name": "com.example.keuangan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135242891370-oueqgts6ituikotnfnterfhctraqspop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keuangan",
+            "certificate_hash": "70230d6216015664926d55184ac52a2fce9599e5"
+          }
+        },
+        {
+          "client_id": "135242891370-ljrvfr61kvr9aui07lgilsd3q91deigk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDYNMvsT0uAMn-R5M9lDafkkmYRrVTfKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135242891370-ljrvfr61kvr9aui07lgilsd3q91deigk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
